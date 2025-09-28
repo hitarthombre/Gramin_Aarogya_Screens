@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gramin_Aarogya_Screens</string>
+
+    <string name="app_name_color">
+    <font color='#FF9933'>Gramin</font> <font color='#138808'>Arogya</font></string>
+
+    <string name="sign_up_mobile" ><u>Sign up with Mobile</u></string>
+    <string name="sign_up_aadhar" ><u>Sign up with Aadhar</u></string>
+
+</resources>
